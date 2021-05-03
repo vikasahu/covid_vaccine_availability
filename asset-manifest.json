@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/covid_vaccine_availability/static/css/main.b38b056d.chunk.css",
+    "main.js": "/covid_vaccine_availability/static/js/main.4406aa4d.chunk.js",
+    "main.js.map": "/covid_vaccine_availability/static/js/main.4406aa4d.chunk.js.map",
+    "runtime-main.js": "/covid_vaccine_availability/static/js/runtime-main.83a476ad.js",
+    "runtime-main.js.map": "/covid_vaccine_availability/static/js/runtime-main.83a476ad.js.map",
+    "static/js/2.1352db39.chunk.js": "/covid_vaccine_availability/static/js/2.1352db39.chunk.js",
+    "static/js/2.1352db39.chunk.js.map": "/covid_vaccine_availability/static/js/2.1352db39.chunk.js.map",
+    "static/js/3.f6908822.chunk.js": "/covid_vaccine_availability/static/js/3.f6908822.chunk.js",
+    "static/js/3.f6908822.chunk.js.map": "/covid_vaccine_availability/static/js/3.f6908822.chunk.js.map",
+    "index.html": "/covid_vaccine_availability/index.html",
+    "static/css/main.b38b056d.chunk.css.map": "/covid_vaccine_availability/static/css/main.b38b056d.chunk.css.map",
+    "static/js/2.1352db39.chunk.js.LICENSE.txt": "/covid_vaccine_availability/static/js/2.1352db39.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/covid_vaccine_availability/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83a476ad.js",
+    "static/js/2.1352db39.chunk.js",
+    "static/css/main.b38b056d.chunk.css",
+    "static/js/main.4406aa4d.chunk.js"
+  ]
+}
