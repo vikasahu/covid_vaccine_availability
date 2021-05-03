@@ -1,5 +1,5 @@
 {
-  "homepage": "https://vikasahu.github.io/Covid_Vaccine_Availability",
+  "homepage": "https://vikasahu.github.io/covid_vaccine_availability",
   "name": "covid_vaccine_slot",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "clean": "rm -rf node_modules/gh-pages/.cache"
   },
   "eslintConfig": {
     "extends": [
